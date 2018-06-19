@@ -55,12 +55,9 @@
 }
 
 .special {
-  width: 10rem;
+  width: 4rem;
   height: 2rem;
   border-radius: 25px;
-}
-
-#content-theme button {
 }
 
 
@@ -71,9 +68,11 @@
 }
 
 .person-li {
-	width: 20%;
-	margin-left: 1%;
-	height: 20px;
+	text-align: left;
+	width: 100%;
+	padding: 1%;
+	margin-top: 1%;
+	height: 2rem;
 	display: inline-block;
 	background-color: aliceblue;
 }
